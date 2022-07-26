@@ -1,7 +1,7 @@
 ### 👋🏻Hi I’m Matthew 
  
 - 📚 I’m currently learning C/JavaScript/Python/Oracle
-- 👨🏻‍🎓 I’m at college 
+- 👨🏻‍🎓 I’m at collage 
 - ⚽ I love sports
 
  <div>
