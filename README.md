@@ -1,6 +1,6 @@
 ### 👋🏻Hi I’m Matthew 
  
-- 📚 I’m currently learning C/JavaScript/Python/Oracle
+- 📚 I’m currently learning React/JavaScript/Java/NextJs
 - 👨🏻‍🎓 I’m at collage 
 - ⚽ I love sports
 
