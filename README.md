@@ -1,9 +1,5 @@
 ### 👋🏻Hi I’m Matthew 
  
-- 📚 I’m currently learning React/JavaScript/Java/NextJs
-- 👨🏻‍🎓 I’m at collage 
-- ⚽ I love sports
-
  <div>
   <a href="https://github.com/MatthewAraujo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatthewAraujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
