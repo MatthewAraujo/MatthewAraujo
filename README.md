@@ -1,7 +1,5 @@
 # Hey there! 👋 I'm Matthew
 
-![Banner](https://user-images.githubusercontent.com/xxxxxx/banner-image.png)
-
 Welcome to my GitHub profile! I'm a developer with a twist of humor and a sprinkle of creativity. Let's dive into the world of code, laughs, and some quirky facts about me.
 
 ## Who Am I? 🤔
