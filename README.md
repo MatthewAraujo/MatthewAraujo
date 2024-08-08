@@ -40,6 +40,7 @@ Feel free to reach out, collaborate, or just share a good coding joke. Let's mak
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
-Happy coding! 😄
+## Disclaimer 📢
+*Don't take this too seriously; ChatGPT made it!*
 
-# disclaimer: Chatgpt made this
+Happy coding! 😄
