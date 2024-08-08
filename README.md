@@ -32,9 +32,7 @@ Got structures? I've got a repo where I teach and learn about data structures. M
 
 ## Let's Connect! 🌐
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Personal Website](https://yourwebsite.com)
+- [LinkedIn](https://www.linkedin.com/in/matthewaraujo20)
 
 Feel free to reach out, collaborate, or just share a good coding joke. Let's make the tech world a fun place, one commit at a time!
 
