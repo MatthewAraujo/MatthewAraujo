@@ -13,13 +13,13 @@ I'm Matthew, a software developer with 2 years of experience. I've dabbled in a 
 - **Data Science:** Python (7 months)
 - **Current Quest:** Building a full-blown finance management API in C# using .NET 8 (includes DDD, validation, error handling, multi-language exceptions, unit testing, MySQL, EF Core, dependency injection, and generating Excel/PDF reports)
 
-## My Coding Playground 🌟
+## Catch Me If You Can 🎥
 
-### Finance Management API
-I'm working on an API that makes managing your finances a breeze. Imagine being able to handle all your money matters with just a few API calls. Cool, right?
+When I'm not buried in code, you can find me:
 
-### Data Structures Repository
-Got structures? I've got a repo where I teach and learn about data structures. More coming soon!
+- Watching **THEPRIMEAGEN** videos and trying to keep up with his blazingly-fast coding.
+- Learning how to create my own **C++ game engine** because why not aim for the stars?
+- Exploring new tech trends and wondering if my code will ever achieve sentience.
 
 ### Fun Facts About Me 🎉
 
