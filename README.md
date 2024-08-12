@@ -11,7 +11,6 @@ I'm Matthew, a software developer with 2 years of experience. I've dabbled in a 
 - **Front-end:** React/Next.js (1.3 months)
 - **Back-end:** .NET, Node (1 year)
 - **Data Science:** Python (7 months)
-- **Current Quest:** Building a full-blown finance management API in C# using .NET 8 (includes DDD, validation, error handling, multi-language exceptions, unit testing, MySQL, EF Core, dependency injection, and generating Excel/PDF reports)
 
 ## Catch Me If You Can 🎥
 
