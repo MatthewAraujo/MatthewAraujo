@@ -1,45 +1,32 @@
-# Hey there! 👋 I'm Matthew
+# 👋 Hey, I'm Matthew! 
 
-Welcome to my GitHub profile! I'm a developer with a twist of humor and a sprinkle of creativity. Let's dive into the world of code, laughs, and some quirky facts about me.
+Welcome to my GitHub! I'm a passionate software developer who loves diving into backend challenges, building efficient fullstack apps, and experimenting with new technologies. Whether it's coding in **Go**, **Node.js**, or designing intuitive UIs with **Next.js** and **React**, I'm always exploring ways to push the boundaries of software development.
 
-## Who Am I? 🤔
+## 👨‍💻 About Me
+- 💼 Currently focused on **file exploration systems** in **Go** and enhancing performance through **Redis caching**.
+- 🎓 Teaching assistant for programming courses at university, helping students master **JavaScript**, **C**, and **data structures**.
+- 🚀 I've worked on real-world projects with **Google Cloud Partners**, creating efficient systems using **Go**, **Node.js**, and architecting frontend solutions with **React**.
+- 🔧 I love automating tasks, building tools like my **update-golang** script, and creating intuitive APIs for various use cases.
+- 🏆 Winner of **CanSat Hackathon** and proud creator of **Notify**, a tool built in **Golang** for sending real-time GitHub repo notifications.
 
-I'm Matthew, a software developer with 2 years of experience. I've dabbled in a bit of everything from front-end magic to back-end sorcery, and even some data science wizardry. Currently, I'm an IT assistant and almost done with my degree. I'm on a quest to level up from a junior developer to a near-pleno (that's "almost-senior" for those not in the know).
+## 🔭 Current Focus
+- **Golang & Redis** – diving into caching strategies and improving system performance with **Go**.
+- **File exploration systems** – building a seamless file browser with **Go** and **HTMX**.
+- **Fullstack development** – creating dynamic and responsive applications with **Next.js** and **React**, aiming for great user experiences and high performance.
 
-### The Skills that Pay the Bills 🛠️
+## 💡 Fun Projects
+- **update-golang** – A tool to automatically update Go versions in your projects.
+- **Notify** – Get real-time email alerts when your GitHub repositories change (written in Golang).
+- **IMDB for Music** – A side project using the **Spotify API** to rank and list music based on various metrics.
 
-- **Front-end:** React/Next.js (1.3 months)
-- **Back-end:** .NET, Node (1 year)
-- **Data Science:** Python (7 months)
+## 🛠 Tech Stack & Tools I Love
+- **Backend**: Go, Node.js, Python
+- **Frontend**: React, Next.js, HTMX, Templ
+- **Databases**: MySQL, PostgreSQL, Redis, Google Cloud SQL
+- **Cloud & DevOps**: Google Cloud Platform (GCP), Docker, CI/CD pipelines
+- **Other tools**: Prisma, N8N, Redis, Metasploit (security is always a focus!)
 
-## Catch Me If You Can 🎥
+## 🤝 Let's Connect!
+I’m always looking for new opportunities to share knowledge and collaborate on exciting projects. Feel free to explore my repositories or reach out if you want to build something amazing together!
 
-When I'm not buried in code, you can find me:
-
-- Watching **THEPRIMEAGEN** videos and trying to keep up with his blazingly-fast coding.
-- Learning how to create my own **C++ game engine** because why not aim for the stars?
-- Exploring new tech trends and wondering if my code will ever achieve sentience.
-
-### Fun Facts About Me 🎉
-
-- I speak fluent **C#** and **Python**, with a bit of **JavaScript** on the side.
-- My idea of a good time is squashing bugs and writing clean, efficient code.
-- I'm a big fan of **unit tests** – because who doesn't love knowing their code works perfectly?
-- In my free time, I like to pretend I'm a wizard in **.NET** and conjure up magical applications.
-
-## Let's Connect! 🌐
-
-- [LinkedIn](https://www.linkedin.com/in/matthewaraujo20)
-
-Feel free to reach out, collaborate, or just share a good coding joke. Let's make the tech world a fun place, one commit at a time!
-
----
-
-![Coding GIF](https://user-images.githubusercontent.com/xxxxxx/coding-gif.gif)
-
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
-
-## Disclaimer 📢
-*Don't take this too seriously; ChatGPT made it!*
-
-Happy coding! 😄
+[LinkedIn](https://www.linkedin.com/in/eu-matthewaraujo/) | [Email](mailto:matthewaraujo.dev@gmail.com)
