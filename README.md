@@ -18,8 +18,7 @@
   <img align="center" alt="Matthew-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
   <img align="center" alt="Matthew-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Matthew-Golang" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-  <img align="center" alt="Matthew-Golang" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c#/c#-original.svg">
-  <img align="center" alt="Matthew-Golang" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnet/dotnet-original.svg">
+  <img align="center" alt="Matthew-Donet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnet/dot-net-original.svg">
   <img align="center" alt="Matthew-postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Matthew-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
   <img align="center" alt="Matthew-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
