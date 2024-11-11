@@ -1,32 +1,49 @@
-# 👋 Hey, I'm Matthew! 
+# 👋 Hey, I'm Matthew! Junior FullStack Web Developer currently working at ED.
 
-Welcome to my GitHub! I'm a passionate software developer who loves diving into backend challenges, building efficient fullstack apps, and experimenting with new technologies. Whether it's coding in **Go**, **Node.js**, or designing intuitive UIs with **Next.js** and **React**, I'm always exploring ways to push the boundaries of software development.
 
-## 👨‍💻 About Me
-- 💼 Currently focused on **file exploration systems** in **Go** and enhancing performance through **Redis caching**.
-- 🎓 Teaching assistant for programming courses at university, helping students master **JavaScript**, **C**, and **data structures**.
-- 🚀 I've worked on real-world projects with **Google Cloud Partners**, creating efficient systems using **Go**, **Node.js**, and architecting frontend solutions with **React**.
-- 🔧 I love automating tasks, building tools like my **update-golang** script, and creating intuitive APIs for various use cases.
-- 🏆 Winner of **CanSat Hackathon** and proud creator of **Notify**, a tool built in **Golang** for sending real-time GitHub repo notifications.
+## About Me  🐱‍💻
+  <div> 
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatthewAraujo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewAraujo&layout=compact&langs_count=7&card_width=255&theme=dark"/>
+  </div>
+  
+## Skills
+<div> 
+  <img align="center" alt="Bione-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Bione-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Bione-Bs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Bione-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+  <img align="center" alt="Bione-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Bione-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Bione-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Bione-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Bione-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img align="center" alt="Bione-postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Bione-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+  <img align="center" alt="Bione-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Bione-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Bione-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Bione-NPM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg">
+  <img align="center" alt="Bione-bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+  <img align="center" alt="Bione-bitbucket" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg">
+  <img align="center" alt="Bione-eslint" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg">
+  <img align="center" alt="Bione-express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+  <img align="center" alt="Bione-gitlab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
+  <img align="center" alt="Bione-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Bione-github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="Bione-jetbrains" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg">
+  <img align="center" alt="Bione-jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+  <img align="center" alt="Bione-materialui" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg">
+  <img align="center" alt="Bione-markdown" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg">
+    <img align="center" alt="Bione-redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+    <img align="center" alt="Bione-sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+   <img align="center" alt="Bione-yarn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg">
+   <img align="center" alt="Bione-webpack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg">
+   <img align="center" alt="Bione-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  </div>
 
-## 🔭 Current Focus
-- **Golang & Redis** – diving into caching strategies and improving system performance with **Go**.
-- **File exploration systems** – building a seamless file browser with **Go** and **HTMX**.
-- **Fullstack development** – creating dynamic and responsive applications with **Next.js** and **React**, aiming for great user experiences and high performance.
-
-## 💡 Fun Projects
-- **update-golang** – A tool to automatically update Go versions in your projects.
-- **Notify** – Get real-time email alerts when your GitHub repositories change (written in Golang).
-- **IMDB for Music** – A side project using the **Spotify API** to rank and list music based on various metrics.
-
-## 🛠 Tech Stack & Tools I Love
-- **Backend**: Go, Node.js, Python
-- **Frontend**: React, Next.js, HTMX, Templ
-- **Databases**: MySQL, PostgreSQL, Redis, Google Cloud SQL
-- **Cloud & DevOps**: Google Cloud Platform (GCP), Docker, CI/CD pipelines
-- **Other tools**: Prisma, N8N, Redis, Metasploit (security is always a focus!)
-
-## 🤝 Let's Connect!
-I’m always looking for new opportunities to share knowledge and collaborate on exciting projects. Feel free to explore my repositories or reach out if you want to build something amazing together!
+## Reach Me Out
+<a href="https://www.linkedin.com/in/joao-bione/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
+<a href = "mailto:joaobione@id.uff.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 [LinkedIn](https://www.linkedin.com/in/eu-matthewaraujo/) | [Email](mailto:matthewaraujo.dev@gmail.com)
