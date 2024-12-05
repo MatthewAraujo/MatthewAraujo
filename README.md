@@ -21,7 +21,6 @@
   <img align="center" alt="Matthew-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Matthew-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
   <img align="center" alt="Matthew-NPM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg">
-  <img align="center" alt="Matthew-bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" alt="Matthew-bitbucket" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg">
   <img align="center" alt="Matthew-nestjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
   <img align="center" alt="Matthew-Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
