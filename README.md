@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Matthew! 
-### Mid Leve FullStack Web Developer currently working at IPLAN.
+### Mid Level FullStack Web Developer currently working at IPLAN.
 
 ## About Me  🐱‍💻
   <div> 
